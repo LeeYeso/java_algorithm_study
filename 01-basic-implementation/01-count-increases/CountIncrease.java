@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main {
+public class CountIncrease {
     public static void main(String[] args) {
 
         //1일차 코딩테스트 연습 : 문제 1. 이전보다 큰 숫자 세기
